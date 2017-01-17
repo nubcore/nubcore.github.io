@@ -2,4 +2,4 @@
 
 눕καρδιά
 
-https://nubcore.github.io/core/
+[core](https://nubcore.github.io/core/)
