@@ -1,5 +1,5 @@
-# nubcore.github.io
+# x.nubcore.com
 
 눕καρδιά
 
-[core](https://nubcore.github.io/core/)
+[core](https://x.nubcore.com/core/)
